@@ -3,8 +3,8 @@
 #include <dirent.h>
 #include <string.h>
 #include <limits.h>
-#include "filemethods.h"
 #include <libexif/exif-data.h>
+#include "filemethods.h"
 
 /* Show the tag name and contents if the tag exists */
 static void show_tag(ExifData *d, ExifIfd ifd, ExifTag tag)
