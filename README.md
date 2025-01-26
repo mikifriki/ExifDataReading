@@ -8,3 +8,7 @@ In order to compile run.
 ```
 gcc main.c filemethods.c -lexif 
 ```
+## test image
+
+Test Image gotten from the example repo
+https://github.com/ianare/exif-samples
